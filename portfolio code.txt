@@ -5,7 +5,7 @@
     </head>
     <body>
         <h1>Welcome to my portfolio</h1>
-        <h2>Sai web developer</h2>
+        <h2> web developer</h2>
         
         <a href=""></a><button>about</button> <button>skills</button> <button>prizes</button> <button>programs</button></a>
         
@@ -66,4 +66,5 @@
            
         </ol>
     </body>
+
 </html>
